@@ -53,7 +53,7 @@
                                 <a class="nav-link" href="/grupos">Grupos</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/grupos">Alumnos</a>
+                                <a class="nav-link" href="/alumnos">Alumnos</a>
                             </li>
                             <li class="nav-item dropdown">
                                 <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>

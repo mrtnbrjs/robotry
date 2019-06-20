@@ -11135,7 +11135,8 @@ a.text-dark:focus {
   }
 }
 
-.navbar-brand {
+.navbar-light .navbar-brand {
+  color: #465aa8;
   font-family: "spartan";
 }
 
